@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+}
+
+.container {
+    background-color: white;
+    max-width: 400px;
+    width: 100%;
+    color: blue;
+}
+
+#contact {
+    padding: 30px;
+}
+
+input {
+    width: 80%;
+    border: 2px solid blue;
+    margin: 2%;
+    padding: 10px;
+}
