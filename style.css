@@ -50,3 +50,7 @@ button {
     margin-top: -100%;
     border-style: hidden;
 }
+
+input::-webkit-calendar-picker-indicator {
+    opacity: 100;
+}
